@@ -1,4 +1,4 @@
-import NewDocumentView from '@/views/NewDocumentView.vue'
+import NewDocumentView from '@/views/CreateDocumentView.vue'
 import { createRouter, createWebHistory } from 'vue-router'
 
 const router = createRouter({
